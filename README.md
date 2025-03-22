@@ -1,11 +1,11 @@
-# NLP
+### Automatic Ticket Classification
 Ticket Classification for customer queries
 
-# Algorithms
+### Algorithms
 NMF
 LDA
 
-# Technologies
+### Technologies
 python
 sklearn
 spacy
